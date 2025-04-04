@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Bienvenue dans ma page!
 
-<!--
-**NouhailaDalil/NouhailaDalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub ! 🎯 Passionnée par l’analyse de données, j’aime transformer les données en insights exploitables à travers **Power BI, SQL, Python et les outils ETL**. Ici, vous trouverez des projets mettant en avant mes compétences en **data analysis et business intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 **À propos de moi**  
+
+- 🎯 **Data Analyst | BI Engineer**, spécialisée en analyse et visualisation des données  
+- 🔍 **Expertise** : Power BI, SQL Server, PostgreSQL, Python (Pandas, NumPy), ETL (SSIS)  
+- 🚀 **Passionnée par** : la création de dashboards, l’automatisation des pipelines et la valorisation des données  
+- 📍 **Basée à** : Rabat, Maroc
+
+  📫 **Contactez-moi** : [LinkedIn](https://www.linkedin.com/in/nouhaila-dalil-862156145/) | [Email](mailto:dalilnouhaila@gmail.com)
+
+---
+
+## 🛠 **Compétences techniques**  
+
+🔹 **Data Analytics & BI** : Power BI (DAX, Power Query) 
+🔹 **Bases de données** : SQL Server, PostgreSQL, MySQL  
+🔹 **ETL / ELT** : SSIS 
+🔹 **Langages de programmation** : Python (Pandas, NumPy...)  
+
+
+
