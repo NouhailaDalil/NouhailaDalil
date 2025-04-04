@@ -17,9 +17,9 @@ Bienvenue sur mon GitHub ! 🎯 Passionnée par l’analyse de données, j’aim
 
 ## 🛠 **Compétences techniques**  
 
-🔹 **Data Analytics & BI** : Power BI (DAX, Power Query) 
-🔹 **Bases de données** : SQL Server, PostgreSQL, MySQL  
-🔹 **ETL / ELT** : SSIS 
+🔹 **Data Analytics & BI** : Power BI (DAX, Power Query) <br><br>
+🔹 **Bases de données** : SQL Server, PostgreSQL, MySQL  <br><br>
+🔹 **ETL / ELT** : SSIS <br><br>
 🔹 **Langages de programmation** : Python (Pandas, NumPy...)  
 
 
